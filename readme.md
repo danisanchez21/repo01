@@ -3,3 +3,5 @@ Creo una carpeta llamada repo01 desde la linea de comandos y la inicializo en gi
 
 1![alt text](/imagenes/1.png)
 
+1.3[alt text](/imagenes/2.png)
+

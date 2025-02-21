@@ -48,3 +48,15 @@ al repositorio remoto:
 ![alt text](/imagenes/9.png) 
 
 
+## Ejercicio 2 Git
+
+
+### 1 .Se crea (repo02) desde Github
+Se considerará un repositorio remoto, 
+no local porque se esta creando de manera
+remota desde github. Tampoco esta asociado de ninguna
+manera al local.
+
+
+
+

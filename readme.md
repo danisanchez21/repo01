@@ -68,6 +68,12 @@ y luego se pasa el comando git clone "URL" :
 ![alt text](/imagenes/2.2.2.png) 
 
 ### 4 .Se crea un readme.md
+Creamos el readme.md y le realizamos todos
+los comandos necesarios para realizar el commit
+(Se incluye la realización del commit):
+
+![alt text](/imagenes/2.3.png) 
+
 
 
 

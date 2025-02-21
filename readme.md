@@ -23,15 +23,22 @@ se encuentra en un estado unmodified (no modificado)
 
 ![alt text](/imagenes/2.png) 
 
-
-1.4 / 1.5 No se esta sincronizando porque no
+### 4 / 5. Se intentan añadir ficheros con git push
+No se esta sincronizando porque no
 tenemos el repo de la nube asociado con el
 repo local, por eso no pasa nada
 
-
-1.6![alt text](/imagenes/6.png)
+### 6. Se crea el repositorio remoto
+Se crea un repositorio remoto desde
+GitHub:
 ![alt text](/imagenes/7.png)
+y lo sincronizo con los comandos:
+![alt text](/imagenes/6.1.png)
 
-1.7![alt text](/imagenes/6.png) 
-ahora si aparece porque tenemos configurada
-la ruta del repositorio de github con el local 
+### 7. Se crea el repositorio remoto
+Ahora si aparece porque tenemos configurada
+la ruta del repositorio de github con el local: 
+![alt text](/imagenes/6.png) 
+
+
+

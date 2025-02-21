@@ -40,5 +40,11 @@ Ahora si aparece porque tenemos configurada
 la ruta del repositorio de github con el local: 
 ![alt text](/imagenes/6.png) 
 
+### 8. Se realiza snapshot local y se sube al remoto
+Se realiza un commit capturando asi el estado
+actual del fichero y se realiza con un push la subida
+al repositorio remoto:
+![alt text](/imagenes/8.png) 
+![alt text](/imagenes/9.png) 
 
 

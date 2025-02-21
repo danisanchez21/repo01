@@ -55,7 +55,22 @@ al repositorio remoto:
 Se considerará un repositorio remoto, 
 no local porque se esta creando de manera
 remota desde github. Tampoco esta asociado de ninguna
-manera al local.
+manera al local:
+
+![alt text](/imagenes/2.1.png) 
+
+
+### 3 .Se realiza un git clone
+Se realiza copiando la URL desde GitHub
+y luego se pasa el comando git clone "URL" :
+
+![alt text](/imagenes/2.2.png) 
+![alt text](/imagenes/2.2.2.png) 
+
+### 4 .Se crea un readme.md
+
+
+
 
 
 
